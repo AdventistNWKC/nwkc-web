@@ -34,7 +34,6 @@ INSTALLED_APPS = [
     'dashboard',
     'search',
     'authenticate',
-    # 'easy_thumbnails',
     'image_cropping',
 ]
 
